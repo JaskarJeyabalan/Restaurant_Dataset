@@ -82,7 +82,6 @@ This project was developed as part of the Cognifyz Data Science Internship. It e
 - ✅ Modular cleaning and feature engineering logic  
 - ✅ Visualizations and model comparisons  
 - ✅ README.md with level-wise breakdown  
-- ✅ Optional ZIP package for internship submission
 
 ---
 
